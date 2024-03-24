@@ -8,7 +8,7 @@ const root = document.getElementById('root');
 ReactDOM.render(
   <>
   <App/>
-    hello world
+   
   </>
   ,root
 )
